@@ -1,6 +1,6 @@
 # resume_lakshmi
 -------------
-### personal details
+  ### personal details
 -Email:**kandrakuntabhulakshmi@gmail.com
 -phone:**9391315196
 -DOB:**01_06_2002
