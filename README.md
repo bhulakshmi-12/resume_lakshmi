@@ -17,3 +17,7 @@
 **2017-2019**
 -###ssc details
 **naveena high school**
+###technical skils:
+-c
+-java
+-python
